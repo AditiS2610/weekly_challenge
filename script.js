@@ -22,13 +22,12 @@ M.Materialbox.init(mb, {});
 const ac = document.querySelector('.autocomplete');
 M.Autocomplete.init(ac,{
   data: {
-      "Aruba": null,
-      "Cancun Mexico": null,
-      "Hawaii": null,
-      "Florida": null,
-      "Calfornia": null,
-      "Jamacia": null,
-      "Eroupe": null,
-      "The Bahamas": null,
+     "Batman": null,
+      "Spiderman": null,
+      "Ironman": null,
+      "Batwomen": null,
+      "The Avengers": null,
+      "Aquaman": null,
+      "Asterix": null,
   }
 })
